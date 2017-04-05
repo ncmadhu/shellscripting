@@ -20,3 +20,7 @@ echo $Test
 
 null_value=
 echo $null_value
+
+# space error
+myno =5
+echo $myno
